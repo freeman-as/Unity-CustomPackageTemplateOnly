@@ -1,0 +1,24 @@
+{
+    "name": "jp.freeman-as.custom-pacakage-template",
+    "displayName": "Unity Custom Package Template",
+    "description": "Template for Unity Custom Package",
+    "version": "0.0.0",
+    "author": "freeman-as",
+    "unity": "2021.3",
+    "keywords": [
+        "unity"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/freeman-as/Unity-CustomPackageTemplate#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/freeman-as/Unity-CustomPackageTemplate"
+    },
+    "samples": [
+        {
+            "displayName": "ShaderPlane",
+            "description": "UVカラーシェーダを板ポリに貼ったシーンサンプル",
+            "path": "Samples~/ShaderPlane"
+        }
+    ]
+}
